@@ -1,0 +1,26 @@
+ {
+  "name": "name",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "dependencies": {}
+}
+{}
+  "name": "invitacion-boda",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Invitación de boda Nayeli & Estiben",
+  "author": "Nayeli & Estiben",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
