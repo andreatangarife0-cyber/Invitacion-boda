@@ -1,0 +1,16 @@
+css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --green-50:#f0f6f2;
+  --green-100:#e3efe7;
+  --green-300:#c9dfd1;
+  --champagne:#f7f2e9;
+  --ink:#20332a;
+  --muted:#6b7670;
+}
+
+.text-muted { color: var(--muted); }
+.font-serif { font-family: 'Cormorant Garamond', serif; }
